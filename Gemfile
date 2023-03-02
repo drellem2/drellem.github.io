@@ -11,6 +11,7 @@ gem "jekyll", "~> 4.1"
 gem "jekyll-archives"
 gem "jekyll-paginate"
 gem "jekyll-sitemap"
+gem "jekyll-sass-converter", "~> 2.0"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 
 # Will be loaded by the remote theme plugin
